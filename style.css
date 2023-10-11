@@ -1,0 +1,45 @@
+body .OQEmp {
+    width: 50%;
+    margin: auto;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+body .CacEMp {
+    width: 50%;
+    margin: auto;
+    text-align:justify;
+    line-height: 1.5;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+body .TipEMp {
+    width: 50%;
+    margin: auto;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+body .CSEmp {
+    width: 50%;
+    margin: auto;
+    text-align: justify;
+    line-height: 1.5;
+}
+h1 {
+    color: white;
+}
+
+h2  {
+    color: white;
+}
+
+body {
+    background-image: url(fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
