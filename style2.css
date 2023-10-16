@@ -1,55 +1,26 @@
-body .OQEmp {
-    width: 50%;
-    margin: auto;
-    text-align: justify;
-    line-height: 1.5;
-}
 
-body .CacEMp {
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
     width: 50%;
     margin: auto;
     text-align:justify;
     line-height: 1.5;
 }
 
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    color: white;
-}
-
-body .TipEMp {
-    width: 50%;
-    margin: auto;
-    text-align: justify;
-    line-height: 1.5;
-}
-
 body .CSEmp {
-    width: 50%;
     margin: auto;
     text-align: justify;
     line-height: 1.5;
 }
-
-.anuncio-lateral {
-    display: block;
-    width: 30%;
-    margin: auto;
-}
-
 
 body {
     background-image: url(fundo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    flex: 1;
-    padding: 20px;
-    color: white;
-    
 }
 
 body .GDEmp {
-    width: 50%;
     margin: auto;
     text-align: justify;
     line-height: 1.5;
@@ -68,13 +39,15 @@ body .GDEmp {
     text-decoration: none;
   }
   
-.botao:focus {
-    outline: none; 
+  .botao:focus {
+    outline: none; /* Remove a borda de foco padrão */
   }
   
-.botao {
+  /* Centralize o botão horizontalmente e verticalmente */
+  .botao {
     display: flex;
     justify-content: center;
     align-items: center;
   }
+  
   
